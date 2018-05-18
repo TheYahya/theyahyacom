@@ -1,4 +1,4 @@
-# theyahya [![Build Status](https://travis-ci.org/theyahya/theyahya.svg?branch=master)](https://travis-ci.org/theyahya/theyahya)
+# theyahya [![Build Status](https://travis-ci.org/TheYahya/theyahya.svg?branch=master)](://travis-ci.org/TheYahya/theyahya)
 
 > [TheYahya](https://theyahya.com) CLI
 
