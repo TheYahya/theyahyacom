@@ -30,11 +30,11 @@ const items = [
 	},
 	{
 		label: 'Blog',
-		url: 'https://theyahya.com/blo'
+		url: 'https://theyahya.com/blog'
 	},
 	{
 		label: 'About',
-		url: 'https://sindresorhus.com/blog/about'
+		url: 'https://theyahya.com/blog/about'
 	},
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
