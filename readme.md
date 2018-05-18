@@ -1,6 +1,6 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# theyahya [![Build Status](https://travis-ci.org/theyahya/theyahya.svg?branch=master)](https://travis-ci.org/theyahya/theyahya)
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
+> [TheYahya](https://theyahya.com) CLI
 
 <img src="screenshot.png" width="752">
 
@@ -10,7 +10,7 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx theyahya
 ```
 
 
@@ -22,4 +22,4 @@ $ npx sindresorhus
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [TheYahya](https://theyahya.com)
